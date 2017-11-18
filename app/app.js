@@ -1,5 +1,5 @@
 var Vue = require('vue');
-var loadash = require('lodash');
+var _ = require('lodash');
 var marked = require('marked');
 
 var editor = new Vue({
